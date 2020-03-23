@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064620282266",
+    "firebase_url": "https://digital-attendance-5ca73.firebaseio.com",
+    "project_id": "digital-attendance-5ca73",
+    "storage_bucket": "digital-attendance-5ca73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064620282266:android:45e4c908b6ade58aaf6a23",
+        "android_client_info": {
+          "package_name": "com.example.digitalattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064620282266-kijq43ig2inaegu8g179m37kekj957qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWm-SrzaXVCu8H2RnxmjYDITnhopqK_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064620282266-kijq43ig2inaegu8g179m37kekj957qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
